@@ -13,5 +13,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Albums of the Year 2023
-description: A list of my favourite records from 2023
+title: About Me
+description: Text for bios, blogs and websites
