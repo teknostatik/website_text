@@ -1,6 +1,5 @@
 lsi: false
 safe: true
-source: https://github.com/teknostatik/website_text/docs/
 incremental: false
 highlighter: rouge
 gist:
@@ -9,7 +8,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-remote_theme: pages-themes/primer@v0.2.0
+theme: jekyll-theme-primer
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
