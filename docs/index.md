@@ -1,9 +1,5 @@
 # Biographies
 
-## Professional (short, flippant)
-
-Spinning plates, fighting fires, saving the world.
-
 ## Professional (short)
 
 I currently work as ITIL Operations Manager, in the Service Management Operations Team at the University of Birmingham. I'm also part of the leadership team for our Agile Community of Practice, and am interested in AI, sustainability, and especially the place where the two meet.
